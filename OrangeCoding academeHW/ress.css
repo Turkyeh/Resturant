@@ -1,0 +1,354 @@
+nav {
+
+    background-color: rgb(1, 1, 1);
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-weight: 400;
+
+}
+
+body {
+
+    background-color: black;
+    /*
+    margin-left: 15px;
+    margin-left: 15px;
+--->*/
+}
+
+section header {
+
+    padding: 0%;
+    margin: 0%;
+    height: 100%;
+    width: 100%;
+    background-size: 100% 100%;
+
+
+}
+
+
+
+
+main {
+
+    padding: 0px;
+
+
+
+    text-align: left;
+
+    color: rgb(252, 249, 249);
+    padding-top: 50px;
+    margin: 0px 0px;
+    font-size: 40px;
+    height: 70%;
+    width: 100%;
+
+
+
+    background-image: url(images/A22.jpg);
+    background-color: rgb(255, 255, 255);
+    background-size: 100% 100%;
+    margin-top: 50px;
+    padding-left: 10%;
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+    opacity: 100%;
+}
+
+nav ul li {
+
+    display: inline-block;
+    width: 80px;
+    font-size: larger;
+    padding-top: 0px;
+    padding-bottom: 0;
+    margin-left: 10px;
+
+
+
+}
+
+/*
+
+nav ul li::after {
+
+    content: "|";
+}
+*/
+nav {
+
+    background-color: hwb(0 100% 0%);
+    height: 60px;
+
+    padding: 0%;
+    margin: 0px;
+}
+
+
+
+h1,
+h3 {
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+    color: #fffefe;
+}
+
+section header figure {
+
+    text-align: center;
+    display: inline-block;
+}
+
+nav div {
+    display: inline-block;
+    text-align: right;
+
+}
+
+ul {
+
+
+    list-style: none;
+
+}
+
+#spo1 {
+
+    text-align: left font-size: larger;
+    background-color: rgb(232, 198, 234);
+    color: #fffefe;
+}
+
+.sect {
+
+    size: 100%;
+    background-color: rgb(234, 227, 217);
+
+
+
+    display: inline-block;
+    margin: 25px;
+    width: 300px;
+    height: 250px;
+    margin-top: 30px;
+
+
+    /* Setup */
+    position: relative;
+    display: inline-block;
+    color: #fafcfe;
+
+
+
+}
+
+#A1 {
+
+    text-align: left;
+    width: 50%;
+
+}
+
+span {
+
+    text-align: left;
+    margin-top: 20px;
+
+}
+
+#A2 {
+
+    width: 40%;
+    height: 30px;
+}
+
+section {
+
+    padding: 0px;
+    margin: 0%;
+    background-color: rgb(0, 0, 0);
+}
+
+img {
+
+    padding: 0%;
+
+    margin: 0%;
+}
+
+#sty {
+
+    color: aliceblue;
+}
+
+.MN {
+
+    display: inline-block;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+#lift {
+
+
+    margin: 25px;
+    width: 300px;
+    height: 250px;
+    margin-top: 30px;
+
+
+    /* Setup */
+    position: relative;
+    display: inline-block;
+    color: aliceblue;
+
+
+
+}
+
+#right {
+
+
+
+    color: aliceblue;
+    display: inline-block;
+    margin: 25px;
+    width: 300px;
+    height: 250px;
+    margin-top: px;
+
+
+    /* Setup */
+
+}
+
+#st {
+
+    color: aliceblue;
+    text-align: center;
+}
+
+footer h2 {
+    text-align: center;
+}
+
+#noor {
+
+    margin: 40px;
+    width: 330px;
+    height: 250px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+
+
+
+
+
+    position: relative;
+    display: inline-block;
+    color: aliceblue;
+    text-align: center;
+}
+
+/*
+
+#nc {
+
+    padding-right: %;
+    padding-top: 20px;
+    ;
+
+}
+
+footer div span {
+    padding-left: 20%;
+
+    text-align: center;
+}*/
+
+
+
+#but {
+
+    margin: 0%;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 48%;
+
+
+
+
+
+
+    position: -webkit-sticky;
+    display: inline;
+    color: #fffffffb;
+    text-align: left;
+
+
+
+}
+
+#im12 {
+    text-align: left;
+    padding-top: 0px;
+    margin: 0%;
+
+}
+
+button {
+
+
+    margin-left: 30px;
+    height: 30px;
+    width: 70px;
+
+}
+
+hj {
+
+    text-align: left;
+
+
+}
+
+.name {
+    background-color: #191313fa;
+    padding-left: 10px;
+}
+
+#fi1 {
+
+    background-color: #181515;
+    /*border-color: rgb(255, 244, 244);
+    border-image: auto;*/
+}
+
+.new {
+
+    text-align: center;
+    color: #fafcfe;
+    size: 50px;
+}
+
+#name {
+
+    width: 300px;
+    height: 30px;
+    color: black;
+    background-color: rgb(169, 33, 24);
+
+}
+
+#path {
+
+    text-align: right;
+    margin-left: 60%;
+}
